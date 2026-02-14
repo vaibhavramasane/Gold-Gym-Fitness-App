@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live
 
  https://goldgym-web.vercel.app
 
@@ -36,3 +36,5 @@
 GoldGym draws inspiration from modern gym brands and minimal web aesthetics blending bold visuals with clean UI to capture the spirit of fitness and motivation.
 
 ---
+
+
